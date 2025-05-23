@@ -7,4 +7,4 @@ Dokumentasi ini berisi kumpulan hasil proses **User Acceptance Test (UAT)** dari
 - Menyediakan referensi atas kontribusi saya terhadap kualitas aplikasi.
 
 ## 📌 Catatan
-Semua file ZIP berisi
+Semua file dalam format ZIP
